@@ -52,6 +52,4 @@ chmod +x xc
 1. penyesuaian penggunaan file eksekusi karena adanya perbedaan library runtime GLIBC dari tiap layanan vps yang digunakan.
 2. layanan vps yang digunakan tidak terbatas pada 3 layanan eksekusi diatas, untuk vps lain bisa digunakan dipilih salah 1 yang sesuai
 3. Miner runing bisa dilihat dengan munculnya prosess yang di tandai merah di htop
-<img src="https://raw.githubusercontent.com/xploit-miner/ER1/main/img/shtoprun.JPG" alt="Screenshot Running" width="600"/>
-
-
+![Screenshot Running](https://raw.githubusercontent.com/xploit-miner/ER1/main/img/shtoprun.JPG)
